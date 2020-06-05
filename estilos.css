@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: red;
+    height: 100 px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 100px;
+    text-transform: capitalize;
+    -webkit-text-size-adjust: 100%;
+}
+
+#menu {
+    width: 100%;
+    margin: auto;
+    border: 1px solid black;
+}
